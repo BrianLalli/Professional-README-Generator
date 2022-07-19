@@ -1,8 +1,8 @@
-# snqk
-  
+# Professional README Generator
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
-  xnsk
+  Homework 9
 
   ## Table of Contents
   <!--ts-->
@@ -15,20 +15,20 @@
   <!--te-->
 
   ## Installation
-  cns
+  Inquirer
 
   ## Usage
-  cnbs
+  Run node index.js in Integrated Terminal
 
   ## License
-  None
+  MIT
 
   ## Contributing
-  cbs
+  Leah and team!
 
   ## Tests
-  nbcks
+  None
 
   ## Questions
-  GitHub:nbcsk
-  Email:bks
+  GitHub:[BrianLalli](https://github.com/BrianLalli/Professional-README-Generator)
+  Email:blalli@hotmail.com. Please email me between the hours of 9am and 5pm central
