@@ -33,11 +33,11 @@ After the user answers each question, a generatedREADME.md file is created based
 <br>
 
 ## Resources
-[Lukas Himsel](https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba)
-[Mozilla](https://opensource.org/licenses/MPL-2.0)
-[Screencastify](https://www.screencastify.com)
-[Video Submission](https://coding-boot-camp.github.io/full-stack/computer-literacy/video-submission-guide)
-[CSS Styling by Bootstrap](https://startbootstrap.com/)
+* [Lukas Himsel](https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba)
+* [Mozilla](https://opensource.org/licenses/MPL-2.0)
+* [Screencastify](https://www.screencastify.com)
+* [Video Submission](https://coding-boot-camp.github.io/full-stack/computer-literacy/video-submission-guide)
+* [CSS Styling by Bootstrap](https://startbootstrap.com/)
 
 <br>
 
