@@ -15,12 +15,12 @@ First, user runs node index.js in the Integrated Terminal.
 
 <br>
 
-Then, user is prompted with questions about your README.md.
+Then, user is prompted with questions about their desired README.md.
 ![README Questions](./Assets/images/README%20Questions.png)
 
 <br>
 
-After you answer each question, a generatedREADME.md file is created based on user input.
+After the user answers each question, a generatedREADME.md file is created based on user input.
 ![Generated README.md](./Assets/images/Generated%20README.png)
 
 <br>
@@ -36,6 +36,7 @@ After you answer each question, a generatedREADME.md file is created based on us
 [Lukas Himsel](https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba)
 [Mozilla](https://opensource.org/licenses/MPL-2.0)
 [Screencastify](https://www.screencastify.com)
+[Video Submission](https://coding-boot-camp.github.io/full-stack/computer-literacy/video-submission-guide)
 [CSS Styling by Bootstrap](https://startbootstrap.com/)
 
 <br>
